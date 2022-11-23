@@ -14,10 +14,14 @@
   "prefer_related_applications": false,
   "screenshots": [
     {
-      "src": "images/screenshot1.png"
+      "src": "images/screenshot1.png",
+      "sizes": "379x672",
+      "type": "image/png"
     },
     {
-      "src": "images/screenshot2.png"
+      "src": "images/screenshot2.png",
+      "sizes": "1025x768",
+      "type": "image/png"
     }
   ],
   "icons": [
