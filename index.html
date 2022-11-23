@@ -22,7 +22,7 @@
       if ('serviceWorker' in navigator) {
         //서비스워커가 있을때(서비스워커 지원여부 확인)
         navigator.serviceWorker
-          .register('service-worker.js') //등록
+          .register('./service-worker.js') //등록
           .then(function (success) {
             console.log('serviceWorker 설치에 성공했습니다!!', success);
           })
