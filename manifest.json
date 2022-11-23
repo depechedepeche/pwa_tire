@@ -2,7 +2,7 @@
   "dir": "auto",
   "lang": "ko",
   "name": "pwa_tire",
-  "scope": ".",
+  "scope": "./",
   "display": "standalone",
   "start_url": "https://depechedepeche.github.io/pwa_tire",
   "short_name": "pwa_tire",
