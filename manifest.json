@@ -8,7 +8,7 @@
   "short_name": "pwa_tire",
   "theme_color": "#FFFFFF",
   "description": "타이어테크 Enhance your work day and solve your cross platform whiteboarding needs with webboard! Draw text, shapes, attach images and more and share those whiteboards with anyone through OneDrive!",
-  "orientation": "any",
+  "orientation": "portrait",
   "background_color": "#FFFFFF",
   "related_applications": [],
   "prefer_related_applications": false,
